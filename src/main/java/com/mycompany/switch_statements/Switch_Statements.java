@@ -23,5 +23,28 @@ public class Switch_Statements {
         
         // Import Scanner Object
         Scanner kb = new Scanner(System.in);
-    }
+        
+        // Prompt the user to Enter a Value between 1 & 7
+        System.out.println("Please Enter a Value between 1 & 7 to display a day>>> ");
+        int userInput = kb.nextInt();
+        
+        // Implement nested if-else
+        if(userInput == 1){
+           System.out.println("Monday");
+       }else if(userInput == 2){
+            System.out.println("Tuesday");
+       }else if(userInput == 3){
+            System.out.println("Wednesday");
+       }else if (userInput == 4){
+            System.out.println("Thurday");
+       }else if (userInput == 5){
+            System.out.println("Friday, Party Time !!!");
+       }else if (userInput == 6){
+            System.out.println("Saturday,I wish it was Saturday");
+       }else if (userInput == 7){
+            System.out.println("Sunday, I wish it was Saturday.");
+       }else{
+            System.out.println("Invalid Entry");
+       }
+}
 }
