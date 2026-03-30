@@ -48,4 +48,4 @@ git clone "http://github.com"
 
 ---
 ## Future Advancements
-What will the next version of the project have
+**What will the next version of the project have**
