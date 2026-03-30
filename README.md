@@ -3,11 +3,11 @@
 
 ---
 ## Table of Contents
-- [Project Overview](Overview)
-- [Youtube Link](Video)
-- [Usage Instructions](Usage)
-- [System Setup](Setup)
-- [Features](Features)
+- [Project Overview](#Overview)
+- [Youtube Link](#Video)
+- [Usage Instructions](#Usage)
+- [System Setup](#Setup)
+- [Features](#Features)
 - Future Advancements
 
 ---
