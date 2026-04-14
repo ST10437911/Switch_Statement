@@ -1,4 +1,4 @@
-# Project Title: CyberSecurity Chatbot
+# Project Title: Chat_App_Part_One
 ## Subheading
 
 ---
@@ -14,22 +14,26 @@
 
 <a name="Overview"/></a>
 ## Project Overview
-This is an example of chatbot focused on Cybersecurity.
+This application allows users to send messages to each other with part 1 prompting the user for their registration and login details.
 
 ---
 
 <a name="Video"/></a>
-## YouTube Video Link Demo
-[YouTube](https://youtube.com)
+## YouTube Video Link 
+[YouTube](https://youtu.be/1LLADtvS_h4)
 
 ---
 
 <a name="Usage"/></a>
 ## Usage Instructions
 **Registration**
-- Enter a Username and Password
-- Etc.
+- Enter a Name & Surname
+- Create a Username and Password and make sure they meet the required conditions
+- Enter you cellphone number by using the international code (+27) 
 
+**Login**
+- Enter the Username and Password you created
+- A Welcome Message which includes your name will be displayed
 ---
 
 <a name="Setup"/></a>
@@ -49,3 +53,4 @@ git clone "http://github.com"
 ---
 ## Future Advancements
 **What will the next version of the project have**
+
